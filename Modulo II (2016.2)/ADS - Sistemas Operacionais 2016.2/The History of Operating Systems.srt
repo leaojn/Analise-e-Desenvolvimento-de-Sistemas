@@ -1,0 +1,404 @@
+1
+00:00:00,000 --> 00:00:05,009
+usamos computadores todos os dias desktops comprimidos laptops e smartphones
+
+2
+00:00:05,009 --> 00:00:09,210
+mas em muitos aspectos que tornam-se quase esquecido como eles realmente funcionam
+
+3
+00:00:09,021 --> 00:00:12,066
+a interface do usuário é usado em todos esses sistemas operacionais tornaram-se
+
+4
+00:00:12,066 --> 00:00:17,073
+intuitiva e quase anônimo para nós a maioria das pessoas assistindo a este vídeo
+
+5
+00:00:17,073 --> 00:00:21,452
+será como me de uma certa idade em que temos vindo a esperar certas convenções
+
+6
+00:00:22,109 --> 00:00:26,400
+e comportamentos dos sistemas operacionais que usamos em uma base diária quando você olha
+
+7
+00:00:26,004 --> 00:00:30,015
+no Windows PC Mac ou máquina linux e de fato o seu Android ou iOS
+
+8
+00:00:30,051 --> 00:00:34,062
+dispositivo que você está olhando para a soma total coletivo de anos de software e
+
+9
+00:00:34,062 --> 00:00:38,103
+progresso hardware e desenvolvimento para alcançar o olhar atual e sentir que você vê
+
+10
+00:00:39,003 --> 00:00:39,087
+antes de você
+
+11
+00:00:39,087 --> 00:00:42,102
+por isso, em muitos aspectos as características que nós tomamos para concedido
+
+12
+00:00:43,002 --> 00:00:47,076
+estamos em um dia conceitos muito alienígenas para aqueles pioneiros de computação início do
+
+13
+00:00:47,076 --> 00:00:51,125
+OS moderno veio de algum lugar e neste vídeo eu vou falar com você
+
+14
+00:00:51,809 --> 00:00:55,500
+sobre como a história tem dado à luz o sistema operacional moderno
+
+15
+00:00:55,005 --> 00:01:02,744
+esta é a história do sistema operativo nos computadores foram iniciados
+
+16
+00:01:03,239 --> 00:01:07,256
+simplesmente mainframes sem sistemas operacionais que dependiam de entrada de cartões perfurados
+
+17
+00:01:07,409 --> 00:01:09,930
+bem como fitas magnéticas e papel
+
+18
+00:01:09,093 --> 00:01:14,115
+o mais antigo computador de programa armazenado foi desenvolvido pela Victoria University of
+
+19
+00:01:15,015 --> 00:01:17,234
+manchester em 1948
+
+20
+00:01:17,369 --> 00:01:21,030
+ele foi chamado a máquina digital automático Manchester nos anos sessenta
+
+21
+00:01:21,003 --> 00:01:26,031
+IBM ou o principal fornecedor de hardware de computador e desenvolveu o OS 360 mas
+
+22
+00:01:26,031 --> 00:01:29,040
+não foi até mais tarde na década que a ascensão do unix mudaria tudo
+
+23
+00:01:30,078 --> 00:01:34,149
+AT & T Bell Laboratories desenvolveu o sistema para seu antigo PDP - 07:00 Mini
+
+24
+00:01:35,049 --> 00:01:39,060
+computador pelos padrões de hoje não havia nada muito sobre isso, mas naquela época a
+
+25
+00:01:39,006 --> 00:01:43,080
+computador que não pegue a metade de um quarto foi considerado pequeno, o custo
+
+26
+00:01:44,034 --> 00:01:49,313
+setenta e dois mil dólares que usou a tecnologia flip chip e apoiaria um
+
+27
+00:01:49,619 --> 00:01:54,990
+unidades de fita de papel fita impressora de teclado e plataforma de transporte jóia de hoje
+
+28
+00:01:54,099 --> 00:01:57,171
+normas que tinha uma capacidade de memória de apenas nove kilobytes
+
+29
+00:01:58,071 --> 00:02:00,107
+mas é claro que naquela época memória não foi medir
+
+30
+00:02:01,007 --> 00:02:06,014
+em bytes foi medido em termos do qual você pode armazenar apenas 4.000 unidades
+
+31
+00:02:06,014 --> 00:02:10,058
+provou ser popular porque era fácil de obter facilmente modificado e completamente
+
+32
+00:02:10,058 --> 00:02:10,139
+livre
+
+33
+00:02:11,039 --> 00:02:14,138
+os anos setenta nos traria processadores de 8 bits, incluindo a Intel
+
+34
+00:02:15,038 --> 00:02:20,072
+8080 um precursor para o processador 386 e depois a até 486
+
+35
+00:02:20,072 --> 00:02:26,099
+Usei a possuir um back 486 nos dias eh como se costuma dizer e eu nunca vou novamente, mas
+
+36
+00:02:26,099 --> 00:02:29,192
+não foi até os anos oitenta que começamos a ver um salto gigante na
+
+37
+00:02:30,092 --> 00:02:33,131
+desenvolvimento de computação isso era porque tinha finalmente tornar-se comercialmente
+
+38
+00:02:34,031 --> 00:02:36,104
+viável para a produção de computadores menores para o lar
+
+39
+00:02:37,004 --> 00:02:41,057
+estes incluíram o Commodore 64 na Apple duas séries da máquina 8-bit atari
+
+40
+00:02:41,057 --> 00:02:46,103
+e, claro, quem poderia esquecer o espectro xenex em 1981 xerox introduzir o
+
+41
+00:02:47,003 --> 00:02:50,009
+sistema de informação de escritório da estrela que acabaria por provar revolucionária
+
+42
+00:02:50,063 --> 00:02:54,140
+porque ele desistiu da idéia de produzir uma interface gráfica do usuário GUI
+
+43
+00:02:55,004 --> 00:02:59,563
+espaço homem sistema operacional baseado, pela primeira vez e incluir na mensagem Este
+
+44
+00:02:59,959 --> 00:03:04,940
+é a primeira vez que alguém já tinha visto ícones representam arquivos e pastas em um
+
+45
+00:03:04,094 --> 00:03:07,175
+sistema de computação que é um dado adquirido agora com na época que era intelectual
+
+46
+00:03:08,075 --> 00:03:12,077
+coisas e muita gente achou muito difícil conseguir realmente a enfrentar
+
+47
+00:03:12,095 --> 00:03:16,414
+até hoje ainda é possível ver onde os sistemas operacionais modernos tomar o seu
+
+48
+00:03:17,269 --> 00:03:21,260
+projetar pistas e suas convenções gerais e comportamento de toda a
+
+49
+00:03:21,026 --> 00:03:21,505
+trabalho
+
+50
+00:03:21,739 --> 00:03:25,786
+xerox fez de volta no dia em que nos deu termos como configurações de desktop e de propriedade
+
+51
+00:03:26,209 --> 00:03:32,000
+mas também eliminar as funções de cópia e mover-se para este dia nós ainda toda a maioria dos
+
+52
+00:03:32,000 --> 00:03:36,059
+esses avanços para a Xerox e não a Apple ea Microsoft, claro, neste
+
+53
+00:03:36,059 --> 00:03:40,115
+tempo Microsoft Dawson piseed são vendidos em computadores IBM foi a líder de mercado e
+
+54
+00:03:41,015 --> 00:03:46,022
+permaneceria relativamente intacta debaixo janelas 95 98 e Millennium como um
+
+55
+00:03:46,085 --> 00:03:49,444
+modo de compatibilidade de software para aplicativos mais antigos
+
+56
+00:03:50,209 --> 00:03:53,293
+que consumia muito pouco espaço de instalação e era ao mesmo tempo flexível e mais
+
+57
+00:03:54,049 --> 00:03:58,700
+fiável do que as janelas naquele momento, mas é claro que atingiu o seu desaparecimento em dois
+
+58
+00:03:58,007 --> 00:04:01,516
+mil quando a evolução do leste e, claro,
+
+59
+00:04:02,209 --> 00:04:03,560
+Windows 2000 e
+
+60
+00:04:03,056 --> 00:04:06,131
+XP que substitui completamente apoiando as coisas um pouco que fosse
+
+61
+00:04:07,031 --> 00:04:12,430
+sistema de escritório Lisa, da Apple, em 1983, que nos deu a primeira gráfica do usuário
+
+62
+00:04:12,709 --> 00:04:16,970
+interface do sistema operacional baseado em que era comercialmente viável como você pode ver
+
+63
+00:04:16,097 --> 00:04:21,143
+que tem uma notável semelhança com a interpretação Xerox no entanto Lisa era muito
+
+64
+00:04:22,043 --> 00:04:25,130
+caro para o consumidor médio e a máquina em si foi um comercial
+
+65
+00:04:26,003 --> 00:04:30,035
+falha depois a Apple vai desenvolver o sistema um. Oh no Nineteen Eighty-Four para o
+
+66
+00:04:30,062 --> 00:04:32,135
+Macintosh original e então tudo mudou
+
+67
+00:04:33,035 --> 00:04:37,061
+ainda hoje é possível ver que o primeiro sistema operacional Mac tem algumas impressionante
+
+68
+00:04:37,061 --> 00:04:40,067
+semelhanças com o que usamos hoje o logotipo da maçã do geral são
+
+69
+00:04:41,021 --> 00:04:45,077
+Pastas na barra de tarefas na parte superior e na lata de lixo na mão direita de fundo
+
+70
+00:04:45,077 --> 00:04:50,162
+canto em muitos aspectos é como uma espécie de versão primitiva do OS 10 ou mais
+
+71
+00:04:51,062 --> 00:04:56,671
+com precisão mais como OS 9, mas você ainda pode ver que a Apple tem mantido o
+
+72
+00:04:57,229 --> 00:05:01,760
+layout geral todo o seu sistema operacional de desktop depois de todos esses anos
+
+73
+00:05:01,076 --> 00:05:05,147
+Microsoft iria copiar a Apple em janelas em desenvolvimento e das janelas do curso 95 foi o
+
+74
+00:05:06,047 --> 00:05:08,135
+maior sistema operacional dos anos noventa, quando você olha para esses sistemas operacionais
+
+75
+00:05:09,035 --> 00:05:13,037
+desenvolvido pela Microsoft e Apple ao longo dos anos, apesar de um monte mudou em
+
+76
+00:05:13,037 --> 00:05:16,106
+muitos aspectos, eles ainda mantêm os mesmos elementos de design e você I convenções
+
+77
+00:05:17,006 --> 00:05:20,090
+que vemos hoje, mas é claro que sistemas operacionais evoluíram para além
+
+78
+00:05:20,009 --> 00:05:23,087
+o mouse eo teclado com o advento dos dispositivos de ecrã táctil e mídias sociais
+
+79
+00:05:24,068 --> 00:05:28,057
+sistemas operacionais ajudá-lo a ir através de sua próxima evolução importante agora
+
+80
+00:05:28,669 --> 00:05:32,810
+redes sociais permeiam os ambientes de desktop com lembretes e
+
+81
+00:05:32,081 --> 00:05:33,190
+notificações
+
+82
+00:05:33,919 --> 00:05:37,981
+eles se tornam muito mais simplificada e aparelho como os usuários esperam que eles sejam
+
+83
+00:05:38,539 --> 00:05:42,200
+cada vez mais intuitiva e fácil de usar com toda a complexidade e
+
+84
+00:05:42,002 --> 00:05:46,025
+tecnologia escondido tomamos muitas das grandes características e funções
+
+85
+00:05:46,043 --> 00:05:49,100
+de nossos sistemas operacionais de hoje para concedido e ele pode ser muito fácil
+
+86
+00:05:50,000 --> 00:05:53,021
+esquecer de onde o engenho e criatividade realmente veio de
+
+87
+00:05:53,021 --> 00:05:56,033
+não há dúvida de que os sistemas operacionais de hoje são anos luz à frente
+
+88
+00:05:56,033 --> 00:05:58,522
+eo que temos na década de oitenta anos setenta e noventa, mas o
+
+89
+00:05:58,819 --> 00:06:03,110
+princípios fundamentais e compromisso fundamental para atender às necessidades do usuário e
+
+90
+00:06:03,011 --> 00:06:06,040
+Reconhecemos a importância de quebrar a barreira entre o hardware
+
+91
+00:06:06,139 --> 00:06:10,370
+e software e interface homem permanece um projeto em evolução, só podemos
+
+92
+00:06:10,037 --> 00:06:13,516
+especular que estamos sistemas operacionais será nos próximos 10 ou 20 anos, mas um
+
+93
+00:06:13,849 --> 00:06:17,887
+coisa é certa onde quer que nós estamos indo o progresso que fazemos será construído em um
+
+94
+00:06:18,229 --> 00:06:22,285
+montanha de sucessos de desenvolvimento e fracassos feitas por aqueles primeira computação
+
+95
+00:06:22,789 --> 00:06:26,090
+pioneiros do alvorecer da era da computação
+
+96
+00:06:26,009 --> 00:06:29,338
+caras muito obrigado por assistir este vídeo, se você gostou, por favor bater esse
+
+97
+00:06:29,419 --> 00:06:32,270
+como a tecla é sempre apreciado ele ajuda a manter este trabalho e indo de
+
+98
+00:06:32,027 --> 00:06:35,146
+Naturalmente não se esqueça de se inscrever para mais vídeos de mim, é claro
+
+99
+00:06:35,389 --> 00:06:38,416
+cabeça para competir para sempre onde você pode se inscrever para o meu mensal
+
+100
+00:06:38,659 --> 00:06:42,710
+boletim você vai ter blogs exclusivos para me, bem como um vídeo gratuito todas as
+
+101
+00:06:42,071 --> 00:06:46,124
+mês muito obrigado por assistir caras que eu vou te ver no próximo vídeo bye bye
+

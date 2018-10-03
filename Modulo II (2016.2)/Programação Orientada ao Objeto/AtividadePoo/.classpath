@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="aula4janeiro"/>
+	<classpathentry kind="src" path="AtividadesCap05"/>
+	<classpathentry kind="src" path="Question05EstacionamentoJava8"/>
+	<classpathentry kind="src" path="CaelumCap04"/>
+	<classpathentry kind="src" path="CaelumCap05"/>
+	<classpathentry kind="src" path="CursoDeJava"/>
+	<classpathentry kind="src" path="AprendendoClasses"/>
+	<classpathentry kind="src" path="NovaQuestao05"/>
+	<classpathentry kind="src" path="ResolucaoProfessor"/>
+	<classpathentry kind="src" path="AppEstacionamentoV2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

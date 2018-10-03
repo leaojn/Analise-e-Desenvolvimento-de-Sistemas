@@ -1,0 +1,27 @@
+Classe cadidato com os atributos:
+- Nome Obrigatorio
+- Numero Obrigatorio(Verificar se possue numeros iguais)
+- Sexo
+- Slogan
+
+Classe Eleicao com os atributos:
+- Nome
+- Nome do campus
+- Quantidade de doscentes, tecnicos administrativos e discentes e um conjunto de candidatos
+
+Classe Votacao com atributos
+- Votos por segmentos
+- Validacao de votos
+
+
+Cada segmento tem percentual 1/3
+Total Votos validos / 100 * 1/3
+percentual final = soma dos 3 percentuais
+
+
+Classe eleicoes
+Adicionar candidato
+Adicionar votacao
+
+
+
